@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: pink;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 10px;
+
+}
