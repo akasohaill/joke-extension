@@ -1,2 +1,3 @@
 # joke-extension
 this is a simple chrome extension in which by clicking you can see jokes...
+The jokes are generating randomly so every time you can see a new joke.
